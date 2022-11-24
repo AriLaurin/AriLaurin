@@ -18,7 +18,7 @@
 
   
 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AriLaurin&repo=Personal-Homepage&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AriLaurin&repo=Personal-Homepage&theme=midnight-purple)](https://github.com/AriLaurin/Personal-Homepage)
   <br>
   <br>
   <h2>Github Statistics</h2>
