@@ -13,11 +13,19 @@
 </div>
   <h2>About me</h2>
   <p>I'm Arijus Laurin, and i'm an aspiring Cybersecurity Operator. Beside that, I often delve into front-end & back-end projects, which you can find in my repo's</p>
+  
+  <p>For further information about my experience and other projects, refer to my personal homepage!</p>
+
+  
+
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AriLaurin&repo=Personal-Homepage&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
   <br>
-   <br>
+  <br>
+  <h2>Github Statistics</h2>
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AriLaurin&theme=midnight-purple)](https://github.com/AriLaurin/github-readme-stats)
   
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AriLaurin&theme=midnight-purple)](https://github.com/AriLaurin/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <p align="center">
