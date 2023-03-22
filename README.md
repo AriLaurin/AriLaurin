@@ -14,11 +14,11 @@
   <h2>About me</h2>
   <p>I'm Arijus Laurin, and i'm an aspiring Cybersecurity Operator. Beside that, I often delve into front-end & back-end projects, which you can find in my repo's</p>
   
-  <p>For further information about my experience and other projects, refer to my personal homepage!</p>
+  <p>For further information about my experience and other projects, refer to my page!</p>
 
   
 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AriLaurin&repo=Personal-Homepage&theme=midnight-purple)](https://github.com/AriLaurin/Personal-Homepage)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AriLaurin&repo=Personal-Homepage&theme=midnight-purple)](https://github.com/AriLaurin/PROJECT-BLACKBIRD)
   <br>
   <br>
   <h2>Github Statistics</h2>
