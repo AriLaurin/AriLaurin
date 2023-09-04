@@ -18,7 +18,7 @@
 
   
 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AriLaurin&repo=project-blackbird&theme=midnight-purple)](https://github.com/AriLaurin/PROJECT-BLACKBIRD)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AriLaurin&repo=react-portfolio&theme=midnight-purple)](https://github.com/AriLaurin/react-portfolio)
   <br>
   <br>
   <h2>Github Statistics</h2>
