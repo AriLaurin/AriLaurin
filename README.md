@@ -12,9 +12,9 @@
 
 </div>
   <h2>About me</h2>
-  <p>I'm Arijus Laurin, and i'm an aspiring Cybersecurity Operator. Beside that, I often delve into front-end & back-end projects, which you can find in my repo's</p>
+  <p>I'm Arijus Laurin, and i'm an aspiring Cybersecurity Operator. Beside that, I often delve into front-end & back-end projects, which you can find in my repos</p>
   
-  <p>For further information about my experience and other projects, refer to my page!</p>
+  <p>For further information about my experience and other projects, refer to my page below</p>
 
   
 
